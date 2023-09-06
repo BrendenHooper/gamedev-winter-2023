@@ -4,7 +4,7 @@
 Generic Assignments https://github.com/hpssjellis/high-school-javascript-game-dev-assignment-images
 
 
-my Website   
+my Website   for this public folder   https://hpssjellis.github.io/gamedev-winter-2023/
 
 
 
