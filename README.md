@@ -67,7 +67,7 @@ Mohid
 Curtis
 
 
-Jonathon
+Jonathon   https://theactualzenaldv2.github.io/Game-Development-2023/assignments/index.html
 
 
 Bradley
@@ -90,7 +90,7 @@ Lukas  O
 Alex
 
 
-Nicholas  S
+Nicholas  S    See oneDrvie
 
 
 
@@ -102,4 +102,9 @@ Matthew  T
 
 
 Aidan
+
+
+Tristan  See oneDrive
+
+Hunter See OneDrive
 
