@@ -18,7 +18,7 @@ Trey    https://treybertram06.github.io/gamedev12trey/public/index.html
 
 
 
-Adrien   https://github.com/J-0-E/gamedev2023joe
+Adrien   https://J-0-E.github.io/gamedev2023joe/public/index.html
 
 
 Ethan B
@@ -27,7 +27,7 @@ Ethan B
 
 Hunter  See my one drive
 
-Shane   https://github.com/2632211Xin/game-dev-2023    https://2632211xin.github.io/game-dev-2023/public/index.html
+Shane    https://2632211xin.github.io/game-dev-2023/public/index.html
 
 Landon
 
