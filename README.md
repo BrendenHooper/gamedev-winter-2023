@@ -10,15 +10,15 @@ my Website   for this public folder   [https://hpssjellis.github.io/gamedev-wint
 
 ## Winter Session 2023
 
-Daniel
+Daniel    https://therealzenald.github.io/GameDev2024Daniel/public/
 
 
 
-Trey
+Trey    https://treybertram06.github.io/gamedev12trey/public/index.html
 
 
 
-Adrien
+Adrien   https://github.com/J-0-E/gamedev2023joe
 
 
 Ethan B
@@ -27,7 +27,7 @@ Ethan B
 
 Hunter  See my one drive
 
-
+Shane   https://github.com/2632211Xin/game-dev-2023    https://2632211xin.github.io/game-dev-2023/public/index.html
 
 Landon
 
@@ -57,11 +57,11 @@ Brendan
 
 
 
-Lincoln
+Lincoln    https://powbaby.github.io/game-dev-2023/public/index.html
 
 
 
-Mohid
+Mohid     https://dweebuh.github.io/gamedev2023mohid/public/index.html
 
 
 Curtis
@@ -76,7 +76,7 @@ Bradley
 Jacob
 
 
-Luke  M
+Luke  M https://lukemcrae7.github.io/gameDev12/public/
 
 
 Matthew  N
@@ -94,14 +94,14 @@ Nicholas  S    See oneDrvie
 
 
 
-Ethan  S
+Ethan  SM  https://lil-toasty.github.io/GameDev2023/public
 
-
+EDthan SC   https://y1rd.github.io/gamedevmess/public/
 
 Matthew  T
 
 
-Aidan
+Aidan    https://aidanzutz.github.io/GameDev2023/public/index.html
 
 
 Tristan  See oneDrive
