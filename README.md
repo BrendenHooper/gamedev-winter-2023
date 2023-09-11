@@ -18,7 +18,7 @@ Trey    https://treybertram06.github.io/gamedev12trey/public/index.html
 
 
 
-Adrien   https://J-0-E.github.io/gamedev2023joe/public/index.html
+Adrien   https://j-0-e.github.io/gamedev2023joe/public/
 
 
 Ethan B
